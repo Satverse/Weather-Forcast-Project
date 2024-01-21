@@ -19,8 +19,6 @@ Feel free to edit this README to make it more attractive and informative!
 
 </div>
 
-![logo](https://github.com/krishnapatidar458/hacktoberfest2023/assets/103871719/47e3a67d-ec2a-4874-8ff2-e164324f1170)
-
 Weather forecasting is essential for planning daily activities and making informed decisions. This project aims to provide a user-friendly web application for checking the weather forecast for different locations. With your contributions, we can enhance its features, accuracy, and user experience.
 
 # Contributing to Hacktoberfest2023
